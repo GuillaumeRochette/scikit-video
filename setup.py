@@ -6,7 +6,7 @@ website for more details.
 
 """
 
-DISTNAME            = 'scikit-video'
+DISTNAME            = 'absolutely-not-scikit-video'
 DESCRIPTION         = 'Video Processing in Python'
 LONG_DESCRIPTION    = descr
 MAINTAINER          = 'Todd Goodall',
